@@ -178,7 +178,7 @@ function makeTable() {
 function updateCartNum(){
     console.log("update num");
     $("#cart-num").empty();
-    var cartFromStorage = JSON.parse(localStorage.getItem("storageCart"));
+    var cartFromStorage = JSON.parse(localStorage.getItem("storageCart")) || [];
     var length = cartFromStorage.length;
     $("#cart-num").append('('+length+ ')');
 
