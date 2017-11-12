@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+ title: Muddy Paws
 
 You can use the [editor on GitHub](https://github.com/mill3rtime/mill3rtime.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
